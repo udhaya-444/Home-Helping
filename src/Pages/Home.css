@@ -1,0 +1,17 @@
+.Home{
+    display: flex;
+  justify-content:right;
+  margin-top: 80px;
+  
+  height: 90vh;
+  font-size: 4rem;
+  background-position: center;
+  background-repeat: none;
+  background-size: cover;
+  /* text-shadow: 4px 4px 4px #fff; */
+    
+}
+a{
+  color: black;
+  text-decoration: none;
+}

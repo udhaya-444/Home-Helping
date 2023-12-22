@@ -1,0 +1,57 @@
+.App {
+    background-color: rgba(213, 206, 206, 0.474);
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    height: 360px;
+    padding: 25px;
+    border: 6px solid transparent #101610b3;
+    border-radius: 5px;
+    margin-left:40%;
+    margin-top:7%;
+    color: rgba(38, 21, 21, 0.843);
+  }
+  body{
+    background-image: url("https://plus.unsplash.com/premium_photo-1661722419971-b6f412b7c553?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmVzdGF1cmFudCUyMGNsZWFuaW5nfGVufDB8fDB8fHww");
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: 100% 160%;
+  }
+  .boxx{
+    width:340px;
+    background-color:white;
+  }
+  h3{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  input{
+    margin: 5px 0px;
+    height: 35px;
+    width:100%;
+    padding: 20px;
+    text-align:left;
+  }
+  button {
+    background-color: #304e30;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    color:azure;
+  }
+  button:hover{
+    background-color:rgb(255, 245, 245);
+  }
+  
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+  }
+  
+  

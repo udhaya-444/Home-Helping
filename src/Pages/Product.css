@@ -1,0 +1,11 @@
+.MuiCard-root {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    width:315px;
+  }
+  .CardContent-root {
+    flex-grow: 1;
+  }
+ 
